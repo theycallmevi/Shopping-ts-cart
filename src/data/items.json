@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": "car",
+        "price": 100000.00,
+        "imgUrl": "/imgs/car.jpg" 
+    },
+
+    {
+        "id": 2,
+        "name": "food",
+        "price": 20.59,
+        "imgUrl": "/imgs/food.jpg" 
+    },
+
+    {
+        "id": 3,
+        "name": "laptop",
+        "price": 1500.00,
+        "imgUrl": "/imgs/laptop.jpg" 
+    },
+
+    {
+        "id": 4,
+        "name": "watch",
+        "price": 200.00,
+        "imgUrl": "/imgs/watch.jpg" 
+    }
+]

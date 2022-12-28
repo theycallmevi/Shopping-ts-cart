@@ -1,2 +1,2 @@
-# Shopping-ts-shopping-cart
+# Shopping-ts-cart
 creating simply shopping cart with react-bootstrap typescript
